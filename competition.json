@@ -1,0 +1,44 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "name": "hackathon",
+      "fees": 100,
+      "date": "01/04/2023",
+      "participants": 10,
+      "description": "aaaaaaaaaaaaassas asassa sasaa"
+    },
+    {
+      "id": 2,
+      "name": "meet& greet",
+      "fees": 30,
+      "date": "01/04/2023",
+      "participants": 0,
+      "description": "aaaaaaaaaaaaassas asassa sasaa"
+    },
+    {
+      "name": "asaas",
+      "fees": "211",
+      "date": "SAASAS",
+      "participants": "211",
+      "description": "SASASAS",
+      "id": 3
+    },
+    {
+      "name": "zzza",
+      "fees": "saasas",
+      "date": "asassa",
+      "participants": "0",
+      "description": "azazaz",
+      "id": 4
+    },
+    {
+      "name": "aminee",
+      "fees": "cddd",
+      "date": "GGH",
+      "participants": "22",
+      "description": "aaaaa",
+      "id": 5
+    }
+  ]
+}
